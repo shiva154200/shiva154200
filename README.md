@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Jogdand
 
-<!--
-**shiva154200/shiva154200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Full-Stack Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical software, solving Data Structures & Algorithms problems, and exploring AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 💻 Building full-stack web applications
+- 🧠 Improving Data Structures & Algorithms and problem solving
+- 🤖 Exploring AI/ML integration in real-world applications
+- 🌐 Working with React, Node.js, Express, Python and MongoDB
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`C++` `JavaScript` `Python` `SQL`
+
+**Frontend**  
+`React` `Vite` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**  
+`Node.js` `Express.js` `FastAPI` `REST APIs`
+
+**Database & Tools**  
+`MongoDB` `Git` `GitHub` `VS Code`
+
+**AI / Data**  
+`Python` `Pandas` `NumPy` `scikit-learn` `Gemini API`
+
+## ⭐ Featured Projects
+
+### 💰 Finance Planning
+AI-powered personal finance planning platform combining React, Node.js/Express, Python FastAPI, MongoDB and Gemini AI.
+
+### 🏠 Wanderlust / Airbnb
+Full-stack accommodation platform focused on listings, authentication and web application development.
+
+### 🧩 LeetCode
+My ongoing Data Structures & Algorithms practice and problem-solving journey.
+
+## 🧠 DSA Focus
+
+Data Structures • Algorithms • Problem Solving • Competitive Programming
+
+## 📈 Current Goals
+
+- Build production-quality projects
+- Strengthen DSA and problem-solving skills
+- Learn system design and backend engineering
+- Contribute to open-source projects
+
+## 🤝 Connect
+
+📧 **Email:** shivamjogdand1458@gmail.com
+
+---
+
+> Always learning. Always building. 🚀
