@@ -6,26 +6,26 @@ I enjoy building practical software, solving Data Structures & Algorithms proble
 
 ## 🚀 What I'm Working On
 
-* 💻 Building full-stack web applications
-* 🧠 Improving Data Structures & Algorithms and problem solving
-* 🤖 Exploring AI/ML integration in real-world applications
-* 🌐 Working with React, Node.js, Express, Python and MongoDB
+- 💻 Building full-stack web applications
+- 🧠 Improving Data Structures & Algorithms and problem solving
+- 🤖 Exploring AI/ML integration in real-world applications
+- 🌐 Working with React, Node.js, Express, Python and MongoDB
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 `C++` `JavaScript` `Python` `SQL`
 
-**Frontend**
+**Frontend**  
 `React` `Vite` `HTML` `CSS` `Tailwind CSS`
 
-**Backend**
+**Backend**  
 `Node.js` `Express.js` `FastAPI` `REST APIs`
 
-**Database & Tools**
+**Database & Tools**  
 `MongoDB` `Git` `GitHub` `VS Code`
 
-**AI / Data**
+**AI / Data**  
 `Python` `Pandas` `NumPy` `scikit-learn` `Gemini API`
 
 ## ⭐ Featured Projects
@@ -38,39 +38,36 @@ AI-powered personal finance planning platform combining React, Node.js/Express, 
 
 Full-stack accommodation platform focused on listings, authentication and web application development.
 
-### 🧩 LeetCode
+## 🧩 LeetCode
 
 My ongoing Data Structures & Algorithms practice and problem-solving journey.
 
-**437+ Problems Solved**
+### 📊 LeetCode Summary
 
-* 🟢 Easy: 162
-* 🟡 Medium: 246
-* 🔴 Hard: 29
+<p align="center">
+  <a href="https://leetcode.com/u/shivam9370/">
+    <img src="https://leetcard.jacoblin.cool/shivam9370?ext=heatmap&theme=dark" alt="Shivam's LeetCode Stats" />
+  </a>
+</p>
 
 ### 🏆 LeetCode Badges
 
-<!-- Add your LeetCode badges here -->
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=shivam9370&border=no-border&theme=github-dark" alt="Shivam's LeetCode Badges" />
+</p>
 
 ### 🧠 DSA Topics
 
 `Arrays` `Strings` `Linked List` `Trees` `Graphs` `Binary Search` `Stack` `Queue` `Heap` `Greedy` `Dynamic Programming` `Backtracking` `Hash Table` `Recursion`
 
-## 📊 LeetCode Progress
-
-Consistently practicing DSA and improving problem-solving skills through LeetCode.
-
-**Focus Areas:**
-Data Structures • Algorithms • Problem Solving • Competitive Programming
-
 ## 📈 Current Goals
 
-* 📊 Build strong foundations in **Data Science**
-* 🤖 Develop practical skills in **AI & Machine Learning**
-* 🧠 Strengthen DSA and problem-solving skills
-* 📈 Learn data analysis, visualization and statistical concepts
-* 🧪 Build real-world ML projects
-* 🚀 Integrate AI/ML into practical applications
+- 📊 Build strong foundations in **Data Science**
+- 🤖 Develop practical skills in **AI & Machine Learning**
+- 🧠 Strengthen DSA and problem-solving skills
+- 📈 Learn data analysis, visualization and statistical concepts
+- 🧪 Build real-world ML projects
+- 🚀 Integrate AI/ML into practical applications
 
 ## 🤝 Connect
 
