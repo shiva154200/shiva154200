@@ -42,19 +42,11 @@ Full-stack accommodation platform focused on listings, authentication and web ap
 
 My ongoing Data Structures & Algorithms practice and problem-solving journey.
 
-### 📊 LeetCode Performance
-
-<p align="center">
-  <a href="https://leetcode.com/u/shivam9370/">
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=shivam9370&theme=dark&show_profile=true&show_solved=true&show_streak=true&show_skills=true&show_languages=true&animation=true&hide_border=true" alt="Shivam's LeetCode Stats" />
-  </a>
-</p>
-
 ### 🏆 LeetCode Badges
 
 <p align="center">
   <a href="https://leetcode.com/u/shivam9370/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=shivam9370&animated=true&theme=github-dark&border=no-border" alt="Shivam's animated LeetCode badges" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=shivam9370&theme=github-dark&border=no-border" alt="Shivam's LeetCode badges" />
   </a>
 </p>
 
