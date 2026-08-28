@@ -46,7 +46,7 @@ My ongoing Data Structures & Algorithms practice and problem-solving journey.
 
 <p align="center">
   <a href="https://leetcode.com/u/shivam9370/">
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=shivam9370&theme=dark&show_profile=true&show_solved=true&show_streak=true&show_skills=true&show_languages=true&show_heatmap=true&animation=true&hide_border=true" alt="Shivam's LeetCode Stats" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=shivam9370&theme=dark&show_profile=true&show_solved=true&show_streak=true&show_skills=true&show_languages=true&animation=true&hide_border=true" alt="Shivam's LeetCode Stats" />
   </a>
 </p>
 
@@ -57,8 +57,6 @@ My ongoing Data Structures & Algorithms practice and problem-solving journey.
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=shivam9370&animated=true&theme=github-dark&border=no-border" alt="Shivam's animated LeetCode badges" />
   </a>
 </p>
-
-> ✨ Badges are fetched automatically from LeetCode and displayed with animated mode. GitHub READMEs support images and GIFs, but do not support custom CSS/JavaScript flip-card interactions, so this is the closest reliable animated presentation. citeturn0search0turn1search2
 
 ### 🧠 DSA Topics
 
