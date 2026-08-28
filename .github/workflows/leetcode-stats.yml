@@ -1,0 +1,16 @@
+name: LeetCode Profile Stats
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep profile stats available
+        run: echo "LeetCode stats are rendered live in README from the LeetCode stats card service."
