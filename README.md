@@ -17,7 +17,7 @@ I enjoy building practical software, solving Data Structures & Algorithms proble
 `C++` `JavaScript` `Python` `SQL`
 
 **Frontend**  
-`React` `Vite` `HTML` `CSS` `Tailwind CSS`
+ `HTML` `CSS` `BootStrap`
 
 **Backend**  
 `Node.js` `Express.js` `FastAPI` `REST APIs`
