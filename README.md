@@ -42,6 +42,16 @@ Full-stack accommodation platform focused on listings, authentication and web ap
 
 My ongoing Data Structures & Algorithms practice and problem-solving journey.
 
+### 📊 Live LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivam9370/">
+    <img src="https://leetcard.jacoblin.cool/shivam9370?theme=dark&font=baloo&border=0" alt="Shivam's LeetCode Stats" />
+  </a>
+</p>
+
+> 🔄 **Automatically updated from my LeetCode profile**
+
 ### 🏆 LeetCode Badges
 
 <p align="center">
