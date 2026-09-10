@@ -95,3 +95,6 @@ My ongoing Data Structures & Algorithms practice and problem-solving journey.
 
 ## 🤝 Connect
 
+## Views
+![Profile Views](https://komarev.com/ghpvc/?username=shiva154200&color=blue)
+
