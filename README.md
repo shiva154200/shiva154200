@@ -32,7 +32,6 @@ I enjoy building practical software, solving Data Structures & Algorithms proble
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySql](https://img.shields.io/badge/-MySql-47A248?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,6 +47,7 @@ I enjoy building practical software, solving Data Structures & Algorithms proble
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
+
 ## ⭐ Featured Projects
 
 ### 💰 Finance Planning
@@ -83,6 +83,17 @@ My ongoing Data Structures & Algorithms practice and problem-solving journey.
 ### 🧠 DSA Topics
 
 `Arrays` `Strings` `Linked List` `Trees` `Graphs` `Binary Search` `Stack` `Queue` `Heap` `Greedy` `Dynamic Programming` `Backtracking` `Hash Table` `Recursion`
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiva154200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva154200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Shivam's Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shiva154200&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Streak" />
+</p>
 
 ## 📈 Current Goals
 
