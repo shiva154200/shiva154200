@@ -87,12 +87,17 @@ My ongoing Data Structures & Algorithms practice and problem-solving journey.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiva154200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva154200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Shivam's Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiva154200&theme=tokyonight&v=2" alt="Shivam's GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shiva154200&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiva154200&theme=tokyonight&v=2" alt="Shivam's Repository Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiva154200&theme=tokyonight&v=2" alt="Shivam's Most Used Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiva154200&theme=tokyonight&v=2" alt="Shivam's GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiva154200&theme=tokyonight&utcOffset=5.5&v=2" alt="Shivam's Productive Time" height="180" />
 </p>
 
 ## 📈 Current Goals
